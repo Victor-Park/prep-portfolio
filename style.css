@@ -5,7 +5,7 @@ html {
 
 body {
   margin: 0;
-  background-image: "url(assets/motherboard-wallpaper.jpg)";
+  background-image: url("assets/motherboard-wallpaper.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -52,7 +52,7 @@ body {
 
 .hero-image {
   background-color: #303b43;
-  background-image: "url(assets/lfz-logo.png)";
+  background-image: url("assets/lfz-logo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: auto 80%;
